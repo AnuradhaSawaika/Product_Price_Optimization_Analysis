@@ -57,4 +57,3 @@ Adjusting prices closer to the optimal point can unlock major revenue growth.
 The analysis shows that even modest changes in pricing can yield ~80% lift,  
 making this approach highly impactful for retailers & e-commerce businesses.  
 
-✨ Next Step: Upload all files to GitHub → pin this repo → and showcase it as a polished portfolio project!
